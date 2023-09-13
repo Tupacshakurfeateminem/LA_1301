@@ -30,7 +30,6 @@ Unser Projekt ist eine C#-Anwendung, welches Börsenkurse anzeigt und zu einer P
 | 6    |  Rand           | Kann | Als Benutzer möchte ich aktuelle Nachrichten über meine Aktien sehen, damit ich auf dem Laufenden bleibe und informierte Entscheidungen treffen kann.|
 
 
-
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
@@ -43,9 +42,6 @@ Unser Projekt ist eine C#-Anwendung, welches Börsenkurse anzeigt und zu einer P
 | 5.1  |Progrmm ist geschlossen   | -----------------------------  | Nachricht wird gesendet                     |
 | 6.1  |Programm ist geöffnet     | Nachrichten sehen anklicken    | Aktuelle Nachrichten werden ausgegeben      |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
-
-
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
@@ -57,10 +53,6 @@ Unser Projekt ist eine C#-Anwendung, welches Börsenkurse anzeigt und zu einer P
 | 5.A      | 01.11 | John Broder, Gabriel Bischof      | Benachrichtigungen zur Aktie erstellen. | 120 min |
 | 6.A      | 01.11 | Ensar Yildirm                     | Nachrichten zur Aktie anzeigen lassen.  | 60 min  |
 Total: 570 min
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
