@@ -2,7 +2,9 @@
 
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-Broder,Bischof,Yildirim Gruppenname:34
+John Broder, Gabriel Bischof, Ensar Yildirim
+
+Gruppenname: 34
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
