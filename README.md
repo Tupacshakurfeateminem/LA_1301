@@ -16,7 +16,7 @@ Gruppenname: 34
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Unser Projekt ist eine C#-Anwendung, welches Börsenkurse anzeigt und zu einer Portfoliomanagement-Software erweitert werden kann.
 
 ### 1.2 User Stories
 
