@@ -48,7 +48,7 @@ Unser Projekt ist eine C#-Anwendung, welches Börsenkurse anzeigt und zu einer P
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A      | 20.09 | Alle                              | API finden                              | 30 min  |
 | 1.B/ 3.A | 18.10 | Alle                              | API implementieren                      | 150 min |
-| 2.A      | 25.10 | John Broder, Ensar Yilidirm       | Grafik erstellen und Anzeigen lassen    | 120 min |
+| 2.A      | 25.10 | John Broder, Ensar Yildirim       | Grafik erstellen und Anzeigen lassen    | 120 min |
 | 4.A      | 25.10 | Gabriel Bischof                   | Portfolio der Aktien erstellen          | 90 min  |
 | 5.A      | 01.11 | John Broder, Gabriel Bischof      | Benachrichtigungen zur Aktie erstellen. | 120 min |
 | 6.A      | 01.11 | Ensar Yildirm                     | Nachrichten zur Aktie anzeigen lassen.  | 60 min  |
