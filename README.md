@@ -51,7 +51,7 @@ Unser Projekt ist eine C#-Anwendung, welches Börsenkurse anzeigt und zu einer P
 | 2.A      | 25.10 | John Broder, Ensar Yildirim       | Grafik erstellen und Anzeigen lassen    | 120 min |
 | 4.A      | 25.10 | Gabriel Bischof                   | Portfolio der Aktien erstellen          | 90 min  |
 | 5.A      | 01.11 | John Broder, Gabriel Bischof      | Benachrichtigungen zur Aktie erstellen. | 120 min |
-| 6.A      | 01.11 | Ensar Yildirm                     | Nachrichten zur Aktie anzeigen lassen.  | 60 min  |
+| 6.A      | 01.11 | Ensar Yildirim                     | Nachrichten zur Aktie anzeigen lassen.  | 60 min  |
 Total: 570 min
 
 ## 3 Entscheiden
