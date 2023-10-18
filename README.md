@@ -64,7 +64,7 @@ Wir hatten schon eine API haben dann aber in der Session erfahren, dass es besse
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |15.9.2023|Alle|30min|60min|
 | 1.B  |18.10.2023|alle|150min|180min|
-|     |         |    |      |      |
+|2.A  |18.10.2023|John Broder, Ensar Yildirim|120 min      |      |
 |     |         |    |      |      |
 |     |         |    |      |      |
 
