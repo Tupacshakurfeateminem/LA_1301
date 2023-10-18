@@ -56,14 +56,17 @@ Total: 570 min
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir hatten schon eine API haben dann aber in der Session erfahren, dass es bessere APIs gibt und so eine neue gesucht.
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |15.9.2023|Alle|30min|60min|
+| 1.B  |18.10.2023|alle|150min|180min|
+|     |         |    |      |      |
+|     |         |    |      |      |
+|     |         |    |      |      |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
