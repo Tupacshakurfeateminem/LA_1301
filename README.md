@@ -9,7 +9,7 @@ Gruppenname: 34
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |       | 0.0.1   | Heute haben wir uns ein Projekt ausgesucht und uns darüber Informiert, ausserdem haben wir die Projektdokumentation bis zum Planen fertiggestellt.|
-|       | ...     |                                                              |
+|       | ...     |  Heute haben wir die API implementiert.                                                           |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
