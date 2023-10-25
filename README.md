@@ -1,16 +1,14 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
 John Broder, Gabriel Bischof, Ensar Yildirim
 
 Gruppenname: 34
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | Heute haben wir uns ein Projekt ausgesucht und uns darüber Informiert, ausserdem haben wir die Projektdokumentation bis zum Planen fertiggestellt.|
-|       | ...     |  Heute haben wir die API implementiert.                                                           |
-|       | 1.0.0   |                                                              |
+|20.09.2023| 0.0.1   | Heute haben wir uns ein Projekt ausgesucht und uns darüber Informiert, ausserdem haben wir die Projektdokumentation bis zum Planen fertiggestellt.|
+|18.10.2023| 0.0.2|  Heute haben wir die API implementiert, allerdings mussten wir eine neue API auswöhlen da die alte nicht gut war.|
+|25.10.2023|||
 
 ## 1 Informieren
 
@@ -25,7 +23,7 @@ Unser Projekt ist eine C#-Anwendung, welches Börsenkurse anzeigt und zu einer P
 | 1    |  Funktional     | Muss | Als ein User möchte ich den Wert meiner Aktie wissen, damit ich weiss ob ich ein möglichen Gewinne erzielt habe.|
 | 2    |  Funktional     | Nuss | Als ein User möchte ich den Verlauf des Wertes grafisch angezeigt bekommen, damit ich sie mit anderen Aktien vergleichen kann. |   
 | 3    |  Funktional     | Muss | Als ein User möchte ich immer den neusten Stand der Aktie haben, damit ich immer auf dem neusten Stand der Dinge bin.|
-| 4    |  Qualität       | Kann | Als Benutzer möchte ich ein Portfolio meiner Aktien erstellen und verwalten, damit ich alle meine Investitionen an einem Ort sehen kann.  | 
+| 4    |  Qualität       | Kann | Als Benutzer möchte ich ein Portfolio meiner Aktien erstellen und verwalten, damit ich alle meine Investitionen an einem Ort sehen kann.  |
 | 5    |  Rand           | Kann | Als Benutzer möchte ich Benachrichtigungen erhalten, wenn eine meiner Aktien einen bestimmten Wert erreicht, damit ich informierte Kauf- oder Verkaufsentscheidungen treffen kann.|
 | 6    |  Rand           | Kann | Als Benutzer möchte ich aktuelle Nachrichten über meine Aktien sehen, damit ich auf dem Laufenden bleibe und informierte Entscheidungen treffen kann.|
 
