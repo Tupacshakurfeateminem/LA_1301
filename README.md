@@ -8,7 +8,7 @@ Gruppenname: 34
 | ----- | ------- | ------------------------------------------------------------ |
 |20.09.2023| 0.0.1   | Heute haben wir uns ein Projekt ausgesucht und uns darüber Informiert, ausserdem haben wir die Projektdokumentation bis zum Planen fertiggestellt.|
 |18.10.2023| 0.0.2|  Heute haben wir die API implementiert, allerdings mussten wir eine neue API auswöhlen da die alte nicht gut war.|
-|25.10.2023|||
+|25.10.2023|0.0.3|Heute haben wir mit dem GUI angefangen|
 
 ## 1 Informieren
 
