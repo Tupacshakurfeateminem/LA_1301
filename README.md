@@ -44,13 +44,20 @@ Unser Projekt ist eine C#-Anwendung, welches Börsenkurse anzeigt und zu einer P
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A      | 20.09 | Alle                              | API finden                              | 30 min  |
-| 1.B/ 3.A | 18.10 | Alle                              | API implementieren                      | 150 min |
-| 2.A      | 25.10 | John Broder, Ensar Yildirim       | Grafik erstellen und Anzeigen lassen    | 120 min |
-| 4.A      | 25.10 | Gabriel Bischof                   | Portfolio der Aktien erstellen          | 90 min  |
-| 5.A      | 01.11 | John Broder, Gabriel Bischof      | Informationen zur Aktie erstellen.      | 120 min |
-| 6.A      | 01.11 | Ensar Yildirim                    | Nachrichten zur Aktie anzeigen lassen.  | 60 min  |
-Total: 570 min
+| 1.A      | 20.09 | John Broder                       | Domkumentation starten                  | 30min   |
+| 2.A      | 20.09 | Ensar,Yildirim  Gabriel Bischof   | API finden                              | 30 min  |
+| 2.B/ 4.A | 18.10 | Alle                              | API implementieren                      | 150 min |
+| 1.B      | 18.10 | Gabriel Bischof                   | Dokumentation fortfahren                | 30min   |
+| 3.A      | 25.10 | John Broder, Ensar Yildirim       | Grafik erstellen und Anzeigen lassen    | 120 min |
+| 5.A      | 25.10 | Gabriel Bischof                   | Portfolio der Aktien erstellen          | 90 min  |
+| 1.C      | 25.10 | Ensar, Yildirim                   | Dokumentation fortfahren                | 30min   |
+| 6.A      | 01.11 | John Broder, Gabriel Bischof      | Informationen zur Aktie erstellen.      | 50 min |
+| 7.A      | 01.11 | Ensar Yildirim                    | Nachrichten zur Aktie anzeigen lassen.  | 60 min  |
+| 8.A      | 01.11 | Alle                              | Portfolioeintrag                        | 90 min  |
+| 1.D      | 01.11 | Gabriel Bischof                   | Dokumentation beenden                   | 30min   |
+
+|
+Total: 590 min
 
 ## 3 Entscheiden
 
@@ -60,13 +67,13 @@ Wir hatten schon eine API haben dann aber in der Session erfahren, dass es besse
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |15.9.2023|Alle|30min|60min|
-| 1.B  |18.10.2023|alle|150min|180min|
-|2.A  |18.10.2023|John Broder, Ensar Yildirim|120 min|-|
-|3.A|25.09.2023|John Broder, Ensar Yildirim|150min|180min|
-|4.A|25.09.2023|John Broder, Ensar Yildirim|90min|-|
-|5.A|25.09.2023|John Broder, Ensar Yildirim|120min|-|
-|6.A|25.09.2023|John Broder, Ensar Yildirim|60min|-|
+| 2.A  |15.9.2023|Alle|30min|60min|
+| 2.B  |18.10.2023|alle|150min|180min|
+|3.A  |18.10.2023|John Broder, Ensar Yildirim|120 min|-|
+|4.A|25.09.2023|John Broder, Ensar Yildirim|150min|180min|
+|5.A|25.09.2023|John Broder, Ensar Yildirim|90min|-|
+|6.A|25.09.2023|John Broder, Ensar Yildirim|120min|-|
+|7.A|25.09.2023|John Broder, Ensar Yildirim|60min|-|
 
 
 ## 5 Kontrollieren
@@ -75,12 +82,12 @@ Wir hatten schon eine API haben dann aber in der Session erfahren, dass es besse
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-|1.1|1.11.2023|O.K|John Broder|
-|2.1|1.11.2023|nicht O.K|John Broder|
-|3.1|1.11.2023|O.K|John Broder|
-|4.1|1.11.2023|nicht O.K|John Broder|
+|2.1|1.11.2023|O.K|John Broder|
+|3.1|1.11.2023|nicht O.K|John Broder|
+|4.1|1.11.2023|O.K|John Broder|
 |5.1|1.11.2023|nicht O.K|John Broder|
 |6.1|1.11.2023|nicht O.K|John Broder|
+|7.1|1.11.2023|nicht O.K|John Broder|
 
 Wir konnten nicht alle unsere Ideen in der Zeit, die 
 wir gehabt haben umsetzen, daher sind viel Testfälle nicht O.K.
