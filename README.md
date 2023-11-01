@@ -62,9 +62,11 @@ Wir hatten schon eine API haben dann aber in der Session erfahren, dass es besse
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |15.9.2023|Alle|30min|60min|
 | 1.B  |18.10.2023|alle|150min|180min|
-|2.A  |18.10.2023|John Broder, Ensar Yildirim|120 min      |      |
-|     |         |    |      |      |
-|     |         |    |      |      |
+|2.A  |18.10.2023|John Broder, Ensar Yildirim|120 min|-|
+|3.A|25.09.2023|John Broder, Ensar Yildirim|150min|180min|
+|4.A|25.09.2023|John Broder, Ensar Yildirim|90min|      |
+|5.A|25.09.2023|John Broder, Ensar Yildirim|120min|      |
+|6.A|25.09.2023|John Broder, Ensar Yildirim|60min|      |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
@@ -74,9 +76,12 @@ Wir hatten schon eine API haben dann aber in der Session erfahren, dass es besse
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
-
+|1.1|1.11.2023|O.K|John Broder|
+|2.1|1.11.2023|nicht O.K|John Broder|
+|3.1|1.11.2023|O.K|John Broder|
+|4.1|1.11.2023|nicht O.K|John Broder|
+|5.1|1.11.2023|nicht O.K|John Broder|
+|6.1|1.11.2023|nicht O.K|John Broder|
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
 ### 5.2 Exploratives Testen
